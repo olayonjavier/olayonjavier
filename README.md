@@ -1,4 +1,4 @@
-### Hi there, I'm Javier - [codeSTACKr][website] 👋 
+### Hi there, I'm [Javier][website] 👋 
 
 [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://javierolayon.com)
 [![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fintent%2Ffollow%3F%26screen_name%3Dolayonjavier)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Ftwitter.com%2Fintent%2Ffollow%3F%26screen_name%3Dolayonjavier)
