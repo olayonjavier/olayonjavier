@@ -47,13 +47,11 @@
 
 </details>
 
-<details>
+<!--<details>
   <summary>:zap: GitHub Stats</summary>
-    [![Javier's GitHub stats](https://github-readme-stats.vercel.app/api?username=olayonjavier)](https://github.com/anuraghazra/github-readme-stats)
-
-</details>
+    [![Javier's GitHub stats](https://github-readme-stats.vercel.app/api?username=olayonjavier)](https://github.com/anuraghazra/github-readme-stats)taws
+</details>-->
 
 [website]: https://javierolayon.com
 [twitter]: https://twitter.com/OlayonJavier
-[instagram]: https://instagram.com/codeSTACKr
 [linkedin]: https://linkedin.com/in/OlayonJavier
