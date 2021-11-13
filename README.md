@@ -5,7 +5,6 @@
 
 ## I'm a Cloud Engineer, Developer, and Life-Long Student!
 
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
 - 🌱 I’m currently working with Infrastructure as Code
 - 🥅 2021 Goals: Contribute more to personal projects
 - ⚡ Fun fact: I love to read and cook
